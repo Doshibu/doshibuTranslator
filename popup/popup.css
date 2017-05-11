@@ -5,32 +5,3 @@ html, body {
 	width: 100%;
 	margin: 0;
 }
-.optionBlock, .submitBlock {
-	display: inline-block;
-	margin-left: 35px;
-}
-.submitBlock div {
-	margin: 5px 0;
-}
-.submitBlock button {
-	min-width: 85px;
-}
-.lengthSlider {
-	display: block;
-	margin: auto;
-	margin-top: 15px;
-	margin-bottom: 25px;
-}
-.lengthSlider label {
-	margin-bottom: 15px;
-}
-.slider-container .back-bar .pointer-label {
-	font-size: 10px;
-}
-.slider-container .scale ins {
-	font-size: 13px;
-}
-.theme-green .back-bar .selected-bar {
-	background-color: #337ab7;
-	background-image: linear-gradient(to bottom, #a3baff, #337ab7);
-}
